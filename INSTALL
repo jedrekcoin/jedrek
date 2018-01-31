@@ -1,0 +1,9 @@
+Building JEDREKCOIN
+
+See doc/readme-qt.rst for instructions on building JEDREKCOIN-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of JEDREKCOIN.
+
+See doc/build-*.txt for instructions on building jedrekcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of JEDREKCOIN.
